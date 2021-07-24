@@ -1,0 +1,44 @@
+
+.video {
+    float: left;
+width: 200;
+height: 500;
+text-align: center;
+}
+
+.video iframe{
+    padding-top: 20px;
+    margin: 10px;
+}
+.video div{
+    margin: -10;
+}
+.adjust img{
+    height: 170px;
+    width: 300px;
+    padding: 5px;
+    border: black solid;
+    border-width: 5px;
+    margin: 5px;
+}
+.align{
+    text-align: center;
+}
+.container{
+    margin: 10%;
+}
+.background{
+    background: url('../GIF/bg.jpg');
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 32%;
+}
+.center{
+    text-align: justify;
+}
+.custom{
+    background-color: teal;
+}
